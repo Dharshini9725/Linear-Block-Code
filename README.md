@@ -1,16 +1,16 @@
-Exp: 9 Linear-Block-Code
-Name:Dharshini V S
-Reg No: 212223060050
+# Exp: 9 Linear-Block-Code
+# Name:Dharshini V S
+# Reg No: 212223060050
 
-# Aim
+### Aim
 
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 
-# Tools required
+### Tools required
 
 Python IDE with Numpy and Scipy
 
-# Program
+### Program
 ```python
 import numpy as np
 
@@ -116,16 +116,16 @@ add = np.array(add)
 add1 = add % 2
 print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ```
-# Output Waveform
+### Output Waveform
 
 ![image](https://github.com/user-attachments/assets/953dd53d-6e45-47b0-9b36-8b12b1381633)
 
-# Results
+### Results
 
 The experiment on ASK modulation and demodulation was successfully implemented in Python. The demodulated data matches the original binary input, validating the working of the ASK techniquHardware experiment 
 output waveform.
 
-# Hardware experiment output waveform.
+### Hardware experiment output waveform.
 
 ![Screenshot 2025-04-25 153415](https://github.com/user-attachments/assets/61ad2eca-a916-4a63-9d11-5e87f709fc9c)
 
