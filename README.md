@@ -126,7 +126,6 @@ The experiment on ASK modulation and demodulation was successfully implemented i
 output waveform.
 
 ### Manual Calculation
-
 ![WhatsApp Image 2025-04-25 at 19 06 59_7e1b9b44](https://github.com/user-attachments/assets/ea8b52a1-2dca-4676-884b-b4b69c30470f)
 
 ![WhatsApp Image 2025-04-25 at 19 06 55_5a82c072](https://github.com/user-attachments/assets/a4317dcc-54e5-485e-9281-e8d5fc02644b)
