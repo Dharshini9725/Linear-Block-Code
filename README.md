@@ -125,7 +125,7 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 The experiment on ASK modulation and demodulation was successfully implemented in Python. The demodulated data matches the original binary input, validating the working of the ASK techniquHardware experiment 
 output waveform.
 
-### Hardware experiment output waveform.
+### Manual Calculation
 
 ![WhatsApp Image 2025-04-25 at 19 06 59_7e1b9b44](https://github.com/user-attachments/assets/ea8b52a1-2dca-4676-884b-b4b69c30470f)
 
