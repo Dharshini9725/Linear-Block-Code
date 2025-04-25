@@ -127,11 +127,17 @@ output waveform.
 
 ### Hardware experiment output waveform.
 
-![Screenshot 2025-04-25 153415](https://github.com/user-attachments/assets/61ad2eca-a916-4a63-9d11-5e87f709fc9c)
+![WhatsApp Image 2025-04-25 at 19 06 59_7e1b9b44](https://github.com/user-attachments/assets/ea8b52a1-2dca-4676-884b-b4b69c30470f)
 
-![WhatsApp Image 2025-04-25 at 15 17 20_79d18572](https://github.com/user-attachments/assets/2c990289-dc94-4611-aa40-a0e98f2ca3c4)
+![WhatsApp Image 2025-04-25 at 19 06 55_5a82c072](https://github.com/user-attachments/assets/a4317dcc-54e5-485e-9281-e8d5fc02644b)
 
-![WhatsApp Image 2025-04-25 at 15 17 20_152b758c](https://github.com/user-attachments/assets/cef9f9e5-da25-4aff-b8ff-280e662c3789)
+![WhatsApp Image 2025-04-25 at 19 06 54_5643970d](https://github.com/user-attachments/assets/f53b0f52-d52b-405a-ab3b-13b58f6786d0)
+
+
+
+
+
+
 
 
 
